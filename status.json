@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-31T19:34:00+01:00",
+  "updated": "2026-10-31T20:03:00+01:00",
   "bots": [
     {
       "id": "ops",
       "name": "Ops Tracker",
       "short": "OT",
-      "latest": "Full bot backup done (282 MB), 31 Oct ~17:25",
+      "latest": "Ran daily Starship Office page check, 31 Oct ~18:30",
       "desc": "Tracks lead replies, manages reminders, backups, and operational checks. Drafts follow-ups only. Never sends without approval."
     },
     {
