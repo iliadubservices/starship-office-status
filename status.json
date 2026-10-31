@@ -1,0 +1,54 @@
+{
+  "updated": "2026-10-31",
+  "bots": [
+    {
+      "id": "ops",
+      "name": "Ops Tracker",
+      "short": "OT",
+      "latest": "Tracking lead follow-ups and daily backups; last check on pending items.",
+      "desc": "Tracks lead replies, manages reminders, backups, and operational checks. Drafts follow-ups only. Never sends without approval."
+    },
+    {
+      "id": "backup",
+      "name": "Backup Collector",
+      "short": "BC",
+      "latest": "Last full backup sent 30 Oct (1.4 MB ZIP).",
+      "desc": "Collects daily backup exports of all Grok Bots into one ZIP around 21:00 Moscow time. Read-only."
+    },
+    {
+      "id": "content",
+      "name": "Content Drafts",
+      "short": "CD",
+      "latest": "Posted Halloween video on X; ran memory/routines backup.",
+      "desc": "Creates daily LinkedIn/X drafts and weekly privacy digests. Research and draft only."
+    },
+    {
+      "id": "dev",
+      "name": "Esquseo Dev",
+      "short": "ED",
+      "latest": "Sent today's backup; nothing changed since yesterday.",
+      "desc": "Engineering for Esquseo. Code review, patches, deploy prep. Never pushes to main without approval."
+    },
+    {
+      "id": "scout",
+      "name": "Job Scout",
+      "short": "JS",
+      "latest": "Sent today's memory & routines backup.",
+      "desc": "Daily scout for jobs and freelance matching your profile. Drafts only."
+    },
+    {
+      "id": "leads",
+      "name": "Lead Generation",
+      "short": "LG",
+      "latest": "Checked weekly limits; confirmed no weekend outreach.",
+      "desc": "Daily lead gen for Esquseo & DUB SERVICES. Privacy/AI compliance leads. Drafts only."
+    },
+    {
+      "id": "claude",
+      "name": "Claude Access",
+      "short": "CA",
+      "latest": "Reviewed chat history and saved document style rules.",
+      "desc": "Helps with personal Claude account access and history review. Never changes without approval."
+    }
+  ]
+}
