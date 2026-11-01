@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-01T19:07:00+01:00",
+  "updated": "2026-11-01T21:33:00+01:00",
   "bots": [
     {
       "id": "ops",
       "name": "Ops Tracker",
       "short": "OT",
-      "latest": "Starship Office page check done, 1 Nov ~18:39",
+      "latest": "Status board refreshed, 1 Nov ~21:33",
       "desc": "Tracks lead replies, manages reminders, backups, and operational checks. Drafts follow-ups only. Never sends without approval."
     },
     {
@@ -40,7 +40,7 @@
       "id": "leads",
       "name": "Lead Generation",
       "short": "LG",
-      "latest": "Backup export prepared, 1 Nov ~16:55",
+      "latest": "Lead Desk backup saved (8.7 MB), 1 Nov ~21:02",
       "desc": "Daily lead gen for Esquseo & DUB SERVICES. Privacy/AI compliance leads. Drafts only."
     },
     {
