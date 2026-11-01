@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-01T12:35:00+01:00",
+  "updated": "2026-11-01T13:05:00+01:00",
   "bots": [
     {
       "id": "ops",
       "name": "Ops Tracker",
       "short": "OT",
-      "latest": "Updated Starship status page, 1 Nov ~12:35",
+      "latest": "Updated Starship status page, 1 Nov ~13:05",
       "desc": "Tracks lead replies, manages reminders, backups, and operational checks. Drafts follow-ups only. Never sends without approval."
     },
     {
@@ -19,7 +19,7 @@
       "id": "content",
       "name": "Content Drafts",
       "short": "CD",
-      "latest": "Drafted LinkedIn article with visuals, 1 Nov ~12:05",
+      "latest": "Finished LinkedIn article and post visuals, 1 Nov ~13:05",
       "desc": "Creates daily LinkedIn/X drafts and weekly privacy digests. Research and draft only."
     },
     {
