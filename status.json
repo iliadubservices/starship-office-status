@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-01T14:10:00+01:00",
+  "updated": "2026-11-01T17:10:00+01:00",
   "bots": [
     {
       "id": "ops",
       "name": "Ops Tracker",
       "short": "OT",
-      "latest": "Updated Starship status page, 1 Nov ~14:10",
+      "latest": "Updated Starship status page, 1 Nov ~17:10",
       "desc": "Tracks lead replies, manages reminders, backups, and operational checks. Drafts follow-ups only. Never sends without approval."
     },
     {
@@ -19,35 +19,35 @@
       "id": "content",
       "name": "Content Drafts",
       "short": "CD",
-      "latest": "Revised LinkedIn article and post visuals, 1 Nov ~14:05",
+      "latest": "Backup export prepared, 1 Nov ~16:50",
       "desc": "Creates daily LinkedIn/X drafts and weekly privacy digests. Research and draft only."
     },
     {
       "id": "dev",
       "name": "Esquseo Dev",
       "short": "ED",
-      "latest": "Daily backup sent; nothing changed, 31 Oct ~16:53",
+      "latest": "Backup export prepared, 1 Nov ~16:50",
       "desc": "Engineering for Esquseo. Code review, patches, deploy prep. Never pushes to main without approval."
     },
     {
       "id": "scout",
       "name": "Job Scout",
       "short": "JS",
-      "latest": "Prepared application documents, 1 Nov ~11:15",
+      "latest": "Backup export prepared, 1 Nov ~17:05",
       "desc": "Daily scout for jobs and freelance matching your profile. Drafts only."
     },
     {
       "id": "leads",
       "name": "Lead Generation",
       "short": "LG",
-      "latest": "Checked replies, nothing new, 1 Nov ~08:05",
+      "latest": "Backup export prepared, 1 Nov ~16:55",
       "desc": "Daily lead gen for Esquseo & DUB SERVICES. Privacy/AI compliance leads. Drafts only."
     },
     {
       "id": "claude",
       "name": "Claude Access",
       "short": "CA",
-      "latest": "Saved document style rules, 30 Oct ~08:45",
+      "latest": "Backup export prepared, 1 Nov ~16:50",
       "desc": "Helps with personal Claude account access and history review. Never changes without approval."
     }
   ]
