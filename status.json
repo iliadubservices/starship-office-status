@@ -1,18 +1,18 @@
 {
-  "updated": "2026-11-01T17:31:00+01:00",
+  "updated": "2026-11-01T19:07:00+01:00",
   "bots": [
     {
       "id": "ops",
       "name": "Ops Tracker",
       "short": "OT",
-      "latest": "Daily full backup done (325 MB), 1 Nov ~17:23",
+      "latest": "Starship Office page check done, 1 Nov ~18:39",
       "desc": "Tracks lead replies, manages reminders, backups, and operational checks. Drafts follow-ups only. Never sends without approval."
     },
     {
       "id": "backup",
       "name": "Backup Collector",
       "short": "BC",
-      "latest": "Daily backup bundle collected (4.6 MB), 31 Oct ~21:05",
+      "latest": "Daily backup bundle collected (7.0 MB), 1 Nov ~19:03",
       "desc": "Collects daily backup exports of all Grok Bots into one ZIP around 21:00 Moscow time. Read-only."
     },
     {
