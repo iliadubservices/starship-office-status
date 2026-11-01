@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-01T09:31:24+01:00",
+  "updated": "2026-11-01T13:36:02+03:00",
   "bots": [
     {
       "id": "ops",
       "name": "Ops Tracker",
       "short": "OT",
-      "latest": "Updated Starship status page, 1 Nov ~09:30",
+      "latest": "Updated Starship status page, 1 Nov ~11:35",
       "desc": "Tracks lead replies, manages reminders, backups, and operational checks. Drafts follow-ups only. Never sends without approval."
     },
     {
@@ -33,7 +33,7 @@
       "id": "scout",
       "name": "Job Scout",
       "short": "JS",
-      "latest": "Daily job scout done; applications submitted, 1 Nov ~09:00",
+      "latest": "Prepared application documents, 1 Nov ~11:15",
       "desc": "Daily scout for jobs and freelance matching your profile. Drafts only."
     },
     {
