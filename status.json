@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-02T17:14:00+01:00",
+  "updated": "2026-11-02T17:39:00+01:00",
   "bots": [
     {
       "id": "ops",
       "name": "Ops Tracker",
       "short": "OT",
-      "latest": "Checked lead replies; nothing new, 2 Nov ~16:00",
+      "latest": "Daily bot backup done, 2 Nov ~17:25",
       "desc": "Tracks lead replies, manages reminders, backups, and operational checks. Drafts follow-ups only. Never sends without approval."
     },
     {
@@ -33,7 +33,7 @@
       "id": "scout",
       "name": "Job Scout",
       "short": "JS",
-      "latest": "Backup export prepared, 2 Nov ~17:00",
+      "latest": "Backup export prepared, 2 Nov ~17:02",
       "desc": "Daily scout for jobs and freelance matching your profile. Drafts only."
     },
     {
