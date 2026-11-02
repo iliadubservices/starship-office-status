@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-02T10:32:00+01:00",
+  "updated": "2026-11-02T11:07:00+01:00",
   "bots": [
     {
       "id": "ops",
       "name": "Ops Tracker",
       "short": "OT",
-      "latest": "Checked lead replies, 2 Nov ~09:58",
+      "latest": "Checked lead replies; nothing new, 2 Nov ~11:00",
       "desc": "Tracks lead replies, manages reminders, backups, and operational checks. Drafts follow-ups only. Never sends without approval."
     },
     {
@@ -33,14 +33,14 @@
       "id": "scout",
       "name": "Job Scout",
       "short": "JS",
-      "latest": "Job scan rerun, cover draft prepared, 2 Nov ~10:10",
+      "latest": "Job application submitted, 2 Nov ~10:20",
       "desc": "Daily scout for jobs and freelance matching your profile. Drafts only."
     },
     {
       "id": "leads",
       "name": "Lead Generation",
       "short": "LG",
-      "latest": "Approved outreach sessions sent, 2 Nov ~10:30",
+      "latest": "Approved outreach sessions sent, 2 Nov ~10:45",
       "desc": "Daily lead gen for Esquseo & DUB SERVICES. Privacy/AI compliance leads. Drafts only."
     },
     {
