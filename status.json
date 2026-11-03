@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T20:08:00+01:00",
+  "updated": "2026-11-03T20:33:00+01:00",
   "bots": [
     {
       "id": "ops",
@@ -26,7 +26,7 @@
       "id": "dev",
       "name": "Esquseo Dev",
       "short": "ED",
-      "latest": "Reviewed app code and pending changes, 3 Nov ~19:54",
+      "latest": "Ran cross-browser and mobile tests on pending changes, 3 Nov ~20:32",
       "desc": "Engineering for Esquseo. Code review, patches, deploy prep. Never pushes to main without approval."
     },
     {
