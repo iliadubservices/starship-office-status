@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T17:08:00+01:00",
+  "updated": "2026-11-03T17:37:00+01:00",
   "bots": [
     {
       "id": "ops",
@@ -12,21 +12,21 @@
       "id": "backup",
       "name": "Backup Collector",
       "short": "BC",
-      "latest": "Daily backup bundle collected (9.0 MB), 2 Nov ~19:05",
+      "latest": "Nightly backup bundle collected (~21 MB), 2 Nov ~23:48",
       "desc": "Collects daily backup exports of all Grok Bots into one ZIP around 21:00 Moscow time. Read-only."
     },
     {
       "id": "content",
       "name": "Content Drafts",
       "short": "CD",
-      "latest": "Prepared and verified today's post drafts with visuals, 3 Nov ~07:43",
+      "latest": "Published a reply post on X, 3 Nov ~08:26",
       "desc": "Creates daily LinkedIn/X drafts and weekly privacy digests. Research and draft only."
     },
     {
       "id": "dev",
       "name": "Esquseo Dev",
       "short": "ED",
-      "latest": "Recapped testing checklist; reminder set for tomorrow, 2 Nov ~16:24",
+      "latest": "Prepared step-by-step launch checklist for open PR, 3 Nov ~17:03",
       "desc": "Engineering for Esquseo. Code review, patches, deploy prep. Never pushes to main without approval."
     },
     {
@@ -47,7 +47,7 @@
       "id": "claude",
       "name": "Claude Access",
       "short": "CA",
-      "latest": "Backup export prepared, 2 Nov ~16:55",
+      "latest": "Searched chat history for certification references, 3 Nov ~06:16",
       "desc": "Helps with personal Claude account access and history review. Never changes without approval."
     }
   ]
