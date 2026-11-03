@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-02T21:09:00+01:00",
+  "updated": "2026-11-03T08:11:00+01:00",
   "bots": [
     {
       "id": "ops",
       "name": "Ops Tracker",
       "short": "OT",
-      "latest": "Checked Starship Office page, 2 Nov ~18:39",
+      "latest": "Checked lead replies, 3 Nov ~08:02",
       "desc": "Tracks lead replies, manages reminders, backups, and operational checks. Drafts follow-ups only. Never sends without approval."
     },
     {
@@ -19,7 +19,7 @@
       "id": "content",
       "name": "Content Drafts",
       "short": "CD",
-      "latest": "Fact-checked published article; no errors found, 2 Nov ~10:53",
+      "latest": "Prepared and verified today's post drafts with visuals, 3 Nov ~07:43",
       "desc": "Creates daily LinkedIn/X drafts and weekly privacy digests. Research and draft only."
     },
     {
@@ -33,14 +33,14 @@
       "id": "scout",
       "name": "Job Scout",
       "short": "JS",
-      "latest": "Submitted 4 job applications, 2 Nov ~10:21",
+      "latest": "Submitted 4 job applications, 3 Nov ~07:46",
       "desc": "Daily scout for jobs and freelance matching your profile. Drafts only."
     },
     {
       "id": "leads",
       "name": "Lead Generation",
       "short": "LG",
-      "latest": "Sent 582 outreach emails; checked bounces and replies, 2 Nov ~15:12",
+      "latest": "Sent 5 follow-up emails, 3 Nov ~08:08",
       "desc": "Daily lead gen for Esquseo & DUB SERVICES. Privacy/AI compliance leads. Drafts only."
     },
     {
