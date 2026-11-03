@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-03T16:12:00+01:00",
+  "updated": "2026-11-03T17:08:00+01:00",
   "bots": [
     {
       "id": "ops",
       "name": "Ops Tracker",
       "short": "OT",
-      "latest": "Checked lead replies; nothing new, 3 Nov ~16:05",
+      "latest": "Ran hourly lead reply check, 3 Nov ~16:56",
       "desc": "Tracks lead replies, manages reminders, backups, and operational checks. Drafts follow-ups only. Never sends without approval."
     },
     {
