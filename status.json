@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T10:03:00+01:00",
+  "updated": "2026-11-04T10:35:00+01:00",
   "bots": [
     {
       "id": "ops",
@@ -40,7 +40,7 @@
       "id": "leads",
       "name": "Lead Generation",
       "short": "LG",
-      "latest": "Sent 38 follow-up and outreach emails to leads, 4 Nov ~09:31",
+      "latest": "Sent 74 outreach and follow-up emails to leads, 4 Nov ~10:35",
       "desc": "Daily lead gen for Esquseo & DUB SERVICES. Privacy/AI compliance leads. Drafts only."
     },
     {
