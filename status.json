@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T18:08:00+01:00",
+  "updated": "2026-11-05T18:32:00+01:00",
   "bots": [
     {
       "id": "ops",
@@ -40,14 +40,14 @@
       "id": "leads",
       "name": "Lead Generation",
       "short": "LG",
-      "latest": "Logged today's sends; checked replies and bounces, 5 Nov ~17:55",
+      "latest": "Logged 4 new lead replies after send batch, 5 Nov ~18:30",
       "desc": "Daily lead gen for Esquseo & DUB SERVICES. Privacy/AI compliance leads. Drafts only."
     },
     {
       "id": "claude",
       "name": "Claude Access",
       "short": "CA",
-      "latest": "Daily backup exported, 4 Nov ~16:55",
+      "latest": "Daily backup exported, 5 Nov ~16:55",
       "desc": "Helps with personal Claude account access and history review. Never changes without approval."
     }
   ]
