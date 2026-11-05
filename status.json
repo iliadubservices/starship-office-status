@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T08:10:00+01:00",
+  "updated": "2026-11-05T08:36:00+01:00",
   "bots": [
     {
       "id": "ops",
@@ -33,14 +33,14 @@
       "id": "scout",
       "name": "Job Scout",
       "short": "JS",
-      "latest": "Completed daily job scout; no high matches, 5 Nov ~07:34",
+      "latest": "Drafted 3 cover letters for medium matches, 5 Nov ~08:25",
       "desc": "Daily scout for jobs and freelance matching your profile. Drafts only."
     },
     {
       "id": "leads",
       "name": "Lead Generation",
       "short": "LG",
-      "latest": "Prepared outreach drafts and approval pack, 5 Nov ~06:45",
+      "latest": "Queued 277 approved outreach emails in 5 sessions, 5 Nov ~08:25",
       "desc": "Daily lead gen for Esquseo & DUB SERVICES. Privacy/AI compliance leads. Drafts only."
     },
     {
