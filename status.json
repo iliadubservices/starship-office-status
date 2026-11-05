@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-05T16:39:00+01:00",
+  "updated": "2026-11-05T17:31:00+01:00",
   "bots": [
     {
       "id": "ops",
       "name": "Ops Tracker",
       "short": "OT",
-      "latest": "Ran hourly lead reply check, 5 Nov ~16:00",
+      "latest": "Ran hourly lead reply check; nothing new, 5 Nov ~17:05",
       "desc": "Tracks lead replies, manages reminders, backups, and operational checks. Drafts follow-ups only. Never sends without approval."
     },
     {
@@ -40,7 +40,7 @@
       "id": "leads",
       "name": "Lead Generation",
       "short": "LG",
-      "latest": "Sent 267 approved outreach emails today, 5 Nov ~16:36",
+      "latest": "Sent 271 approved outreach emails today, 5 Nov ~17:30",
       "desc": "Daily lead gen for Esquseo & DUB SERVICES. Privacy/AI compliance leads. Drafts only."
     },
     {
