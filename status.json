@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T15:13:31+01:00",
+  "updated": "2026-11-06T17:19:36+01:00",
   "bots": [
     {
       "id": "ops",
@@ -19,7 +19,7 @@
       "id": "content",
       "name": "Content Drafts",
       "short": "CD",
-      "latest": "Drafted product insights update, 6 Nov ~13:30",
+      "latest": "Published product insights update, 6 Nov ~13:45",
       "desc": "Creates daily LinkedIn/X drafts and weekly privacy digests. Research and draft only."
     },
     {
