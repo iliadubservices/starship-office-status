@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T08:07:00+01:00",
+  "updated": "2026-11-08T12:33:42+01:00",
   "bots": [
     {
       "id": "ops",
@@ -33,7 +33,7 @@
       "id": "scout",
       "name": "Job Scout",
       "short": "JS",
-      "latest": "Scanned new job listings; drafted 1 cover letter, 8 Nov ~07:25",
+      "latest": "Scanned 337 job listings; drafted 1 cover letter, 8 Nov ~10:00",
       "desc": "Daily scout for jobs and freelance matching your profile. Drafts only."
     },
     {
