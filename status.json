@@ -1,25 +1,25 @@
 {
-  "updated": "2026-11-10T17:02:00+01:00",
+  "updated": "2026-11-10T18:36:00+01:00",
   "bots": [
     {
       "id": "ops",
       "name": "Ops Tracker",
       "short": "OT",
-      "latest": "Checked lead replies; nothing new, 10 Nov ~17:00",
+      "latest": "Checked lead replies; nothing new, 10 Nov ~19:00",
       "desc": "Tracks lead replies, manages reminders, backups, and operational checks. Drafts follow-ups only. Never sends without approval."
     },
     {
       "id": "backup",
       "name": "Backup Collector",
       "short": "BC",
-      "latest": "Nightly backup bundle collected (~14 MB), 8 Nov ~23:47",
+      "latest": "Nightly backup bundle collected (~12 MB), 9 Nov ~23:55",
       "desc": "Collects daily backup exports of all Grok Bots into one ZIP around 21:00 Moscow time. Read-only."
     },
     {
       "id": "content",
       "name": "Content Drafts",
       "short": "CD",
-      "latest": "Prepared Sunday post drafts with visuals, 8 Nov ~07:05",
+      "latest": "Posted and replied on X; backup done, 10 Nov ~16:30",
       "desc": "Creates daily LinkedIn/X drafts and weekly privacy digests. Research and draft only."
     },
     {
@@ -33,14 +33,14 @@
       "id": "scout",
       "name": "Job Scout",
       "short": "JS",
-      "latest": "Scanned 337 job listings; drafted 1 cover letter, 8 Nov ~10:00",
+      "latest": "Submitted 2 job applications, 10 Nov ~07:35",
       "desc": "Daily scout for jobs and freelance matching your profile. Drafts only."
     },
     {
       "id": "leads",
       "name": "Lead Generation",
       "short": "LG",
-      "latest": "Prepared 256 new outreach and follow-up drafts, 8 Nov ~07:00",
+      "latest": "Sent outreach waves to new leads (181 today), 10 Nov ~15:13",
       "desc": "Daily lead gen for Esquseo & DUB SERVICES. Privacy/AI compliance leads. Drafts only."
     },
     {
