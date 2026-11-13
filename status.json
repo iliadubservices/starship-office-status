@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T17:08:00+01:00",
+  "updated": "2026-11-13T20:12:00+01:00",
   "bots": [
     {
       "id": "ops",
@@ -19,7 +19,7 @@
       "id": "content",
       "name": "Content Drafts",
       "short": "CD",
-      "latest": "Drafted weekly digest; posted and replied, 13 Nov ~09:40",
+      "latest": "Reviewed fact-check of published digest; drafted fixes, 13 Nov ~20:05",
       "desc": "Creates daily LinkedIn/X drafts and weekly privacy digests. Research and draft only."
     },
     {
@@ -47,7 +47,7 @@
       "id": "claude",
       "name": "Claude Access",
       "short": "CA",
-      "latest": "Started weekly digest fact-check; usage limit hit, 13 Nov ~09:50",
+      "latest": "Fact-checked published digest; found one wording issue, 13 Nov ~20:04",
       "desc": "Helps with personal Claude account access and history review. Never changes without approval."
     }
   ]
