@@ -1,53 +1,53 @@
 {
-  "updated": "2026-11-13T14:08:00+01:00",
+  "updated": "2026-11-13T14:10:00+01:00",
   "bots": [
     {
       "id": "ops",
       "name": "Ops Tracker",
       "short": "OT",
-      "latest": "Checked lead replies; nothing new, 13 Nov ~14:00",
+      "latest": "Sent meeting invite to a partner; checked lead replies, 13 Nov ~14:05",
       "desc": "Tracks lead replies, manages reminders, backups, and operational checks. Drafts follow-ups only. Never sends without approval."
     },
     {
       "id": "backup",
       "name": "Backup Collector",
       "short": "BC",
-      "latest": "Nightly backup bundle collected (~12 MB), 9 Nov ~23:55",
+      "latest": "Delivered nightly backup bundle (~26 MB, two parts), 12 Nov ~23:55",
       "desc": "Collects daily backup exports of all Grok Bots into one ZIP around 21:00 Moscow time. Read-only."
     },
     {
       "id": "content",
       "name": "Content Drafts",
       "short": "CD",
-      "latest": "Posted and replied on X; backup done, 10 Nov ~16:30",
+      "latest": "Drafted weekly digest; posted and replied, 13 Nov ~09:40",
       "desc": "Creates daily LinkedIn/X drafts and weekly privacy digests. Research and draft only."
     },
     {
       "id": "dev",
       "name": "Esquseo Dev",
       "short": "ED",
-      "latest": "Prepared landing and homepage site drops, 6 Nov ~13:54",
+      "latest": "Updated site certification lines and confirmed them live, 11 Nov ~09:40",
       "desc": "Engineering for Esquseo. Code review, patches, deploy prep. Never pushes to main without approval."
     },
     {
       "id": "scout",
       "name": "Job Scout",
       "short": "JS",
-      "latest": "Submitted 2 job applications, 10 Nov ~07:35",
+      "latest": "Submitted 2 job applications, 13 Nov ~07:25",
       "desc": "Daily scout for jobs and freelance matching your profile. Drafts only."
     },
     {
       "id": "leads",
       "name": "Lead Generation",
       "short": "LG",
-      "latest": "Sent follow-ups to leads, 11 Nov ~08:30",
+      "latest": "Prepared starter-offer deck; sent partner invites, 13 Nov ~13:20",
       "desc": "Daily lead gen for Esquseo & DUB SERVICES. Privacy/AI compliance leads. Drafts only."
     },
     {
       "id": "claude",
       "name": "Claude Access",
       "short": "CA",
-      "latest": "Fact-checked weekly digest draft, 6 Nov ~10:40",
+      "latest": "Started weekly digest fact-check; usage limit hit, 13 Nov ~09:50",
       "desc": "Helps with personal Claude account access and history review. Never changes without approval."
     }
   ]
