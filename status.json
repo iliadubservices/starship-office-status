@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-14T09:10:00+01:00",
+  "updated": "2026-11-14T10:12:00+01:00",
   "bots": [
     {
       "id": "ops",
       "name": "Ops Tracker",
       "short": "OT",
-      "latest": "Checked lead replies; nothing new, 13 Nov ~16:57",
+      "latest": "Searched inbox for a requested email; none found, 14 Nov ~09:59",
       "desc": "Tracks lead replies, manages reminders, backups, and operational checks. Drafts follow-ups only. Never sends without approval."
     },
     {
@@ -26,7 +26,7 @@
       "id": "dev",
       "name": "Esquseo Dev",
       "short": "ED",
-      "latest": "Updated site certification lines and confirmed them live, 11 Nov ~09:40",
+      "latest": "Reviewed video and drafted teaser posts, 14 Nov ~09:53",
       "desc": "Engineering for Esquseo. Code review, patches, deploy prep. Never pushes to main without approval."
     },
     {
