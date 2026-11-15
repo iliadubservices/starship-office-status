@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-14T10:12:00+01:00",
+  "updated": "2026-11-15T08:07:00+01:00",
   "bots": [
     {
       "id": "ops",
       "name": "Ops Tracker",
       "short": "OT",
-      "latest": "Searched inbox for a requested email; none found, 14 Nov ~09:59",
+      "latest": "Found a requested email in inbox, 14 Nov ~22:18",
       "desc": "Tracks lead replies, manages reminders, backups, and operational checks. Drafts follow-ups only. Never sends without approval."
     },
     {
