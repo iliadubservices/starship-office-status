@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T19:43:00+01:00",
+  "updated": "2026-11-15T20:41:00+01:00",
   "bots": [
     {
       "id": "ops",
@@ -47,7 +47,7 @@
       "id": "claude",
       "name": "Claude Access",
       "short": "CA",
-      "latest": "Fact-checked published digest; found one wording issue, 13 Nov ~20:04",
+      "latest": "Reviewed a subscription request; declined unsafe payment, 15 Nov ~20:35",
       "desc": "Helps with personal Claude account access and history review. Never changes without approval."
     }
   ]
