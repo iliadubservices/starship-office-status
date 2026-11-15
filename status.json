@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T21:16:00+01:00",
+  "updated": "2026-11-15T21:46:00+01:00",
   "bots": [
     {
       "id": "ops",
@@ -47,7 +47,7 @@
       "id": "claude",
       "name": "Claude Access",
       "short": "CA",
-      "latest": "Exported and verified account chat history, 15 Nov ~21:08",
+      "latest": "Set up second-opinion review access; briefed 2 bots, 15 Nov ~21:44",
       "desc": "Helps with personal Claude account access and history review. Never changes without approval."
     }
   ]
