@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T10:45:00+01:00",
+  "updated": "2026-11-16T11:10:00+01:00",
   "bots": [
     {
       "id": "ops",
@@ -19,7 +19,7 @@
       "id": "content",
       "name": "Content Drafts",
       "short": "CD",
-      "latest": "Started second-opinion review of article and post, 16 Nov ~10:21",
+      "latest": "Applied review fixes; prepared LinkedIn and X posts, 16 Nov ~11:05",
       "desc": "Creates daily LinkedIn/X drafts and weekly privacy digests. Research and draft only."
     },
     {
@@ -33,14 +33,14 @@
       "id": "scout",
       "name": "Job Scout",
       "short": "JS",
-      "latest": "Preparing 2 job applications; 1 portal link broken, 16 Nov ~10:42",
+      "latest": "Submitted 1 job application, 16 Nov ~10:46",
       "desc": "Daily scout for jobs and freelance matching your profile. Drafts only."
     },
     {
       "id": "leads",
       "name": "Lead Generation",
       "short": "LG",
-      "latest": "Sent 2 outreach emails; queued 8 LinkedIn notes, 16 Nov ~10:00",
+      "latest": "Prepared 100 outreach emails for review, 16 Nov ~11:03",
       "desc": "Daily lead gen for Esquseo & DUB SERVICES. Privacy/AI compliance leads. Drafts only."
     },
     {
