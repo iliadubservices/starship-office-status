@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T11:10:00+01:00",
+  "updated": "2026-11-16T11:37:00+01:00",
   "bots": [
     {
       "id": "ops",
@@ -19,7 +19,7 @@
       "id": "content",
       "name": "Content Drafts",
       "short": "CD",
-      "latest": "Applied review fixes; prepared LinkedIn and X posts, 16 Nov ~11:05",
+      "latest": "Published 2 LinkedIn items; fact-checking X drafts, 16 Nov ~11:34",
       "desc": "Creates daily LinkedIn/X drafts and weekly privacy digests. Research and draft only."
     },
     {
@@ -40,7 +40,7 @@
       "id": "leads",
       "name": "Lead Generation",
       "short": "LG",
-      "latest": "Prepared 100 outreach emails for review, 16 Nov ~11:03",
+      "latest": "Fact-checked partner proposal; prepared outreach emails, 16 Nov ~11:33",
       "desc": "Daily lead gen for Esquseo & DUB SERVICES. Privacy/AI compliance leads. Drafts only."
     },
     {
