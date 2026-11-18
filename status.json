@@ -1,18 +1,18 @@
 {
-  "updated": "2026-11-18T15:38:00+01:00",
+  "updated": "2026-11-18T17:43:00+01:00",
   "bots": [
     {
       "id": "ops",
       "name": "Ops Tracker",
       "short": "OT",
-      "latest": "Checked lead replies; 1 warm reply, draft prepared, 18 Nov ~13:49",
+      "latest": "Relayed 6 meeting asks, set event reminders, 18 Nov ~17:14",
       "desc": "Tracks lead replies, manages reminders, backups, and operational checks. Drafts follow-ups only. Never sends without approval."
     },
     {
       "id": "backup",
       "name": "Backup Collector",
       "short": "BC",
-      "latest": "Delivered nightly backup bundle, 16 Nov ~23:43",
+      "latest": "Delivered nightly backup bundle, 17 Nov ~23:45",
       "desc": "Collects daily backup exports of all Grok Bots into one ZIP around 21:00 Moscow time. Read-only."
     },
     {
@@ -40,7 +40,7 @@
       "id": "leads",
       "name": "Lead Generation",
       "short": "LG",
-      "latest": "Sent third outreach batch; 305 emails today, 18 Nov ~13:35",
+      "latest": "Sent 6 meeting asks; 102 more emails going out, 18 Nov ~17:08",
       "desc": "Daily lead gen for Esquseo & DUB SERVICES. Privacy/AI compliance leads. Drafts only."
     },
     {
