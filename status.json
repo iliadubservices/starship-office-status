@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-20T15:10:00+01:00",
+  "updated": "2026-11-20T16:12:00+01:00",
   "bots": [
     {
       "id": "ops",
       "name": "Ops Tracker",
       "short": "OT",
-      "latest": "Sent approved warm-lead reply, checked replies, 20 Nov ~15:05",
+      "latest": "Reviewed 3 days of inbox; all lead replies answered, 20 Nov ~15:54",
       "desc": "Tracks lead replies, manages reminders, backups, and operational checks. Drafts follow-ups only. Never sends without approval."
     },
     {
@@ -19,7 +19,7 @@
       "id": "content",
       "name": "Content Drafts",
       "short": "CD",
-      "latest": "Published LinkedIn post, verified X companion post, 20 Nov ~11:19",
+      "latest": "Drafted boostable X post, verified it live, 20 Nov ~15:47",
       "desc": "Creates daily LinkedIn/X drafts and weekly privacy digests. Research and draft only."
     },
     {
