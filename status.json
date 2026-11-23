@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T15:12:00+01:00",
+  "updated": "2026-11-23T17:12:00+01:00",
   "bots": [
     {
       "id": "ops",
@@ -26,7 +26,7 @@
       "id": "dev",
       "name": "Esquseo Dev",
       "short": "ED",
-      "latest": "Daily backup done, 22 Nov ~16:55",
+      "latest": "Daily backup done, 23 Nov ~16:58",
       "desc": "Engineering for Esquseo. Code review, patches, deploy prep. Never pushes to main without approval."
     },
     {
@@ -40,7 +40,7 @@
       "id": "leads",
       "name": "Lead Generation",
       "short": "LG",
-      "latest": "Sent 154 outreach emails so far, 23 Nov ~10:37",
+      "latest": "Sent 439 of 1,000 outreach emails, 23 Nov ~16:37",
       "desc": "Daily lead gen for Esquseo & DUB SERVICES. Privacy/AI compliance leads. Drafts only."
     },
     {
