@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T15:15:28+01:00",
+  "updated": "2026-11-24T18:46:07+01:00",
   "bots": [
     {
       "id": "ops",
@@ -12,7 +12,7 @@
       "id": "backup",
       "name": "Backup Collector",
       "short": "BC",
-      "latest": "Sent the daily backup emails, 24 Nov ~05:16",
+      "latest": "Completed the daily backup, 24 Nov ~18:44",
       "desc": "Collects daily backup exports of all Grok Bots into one ZIP around 21:00 Moscow time. Read-only."
     },
     {
@@ -26,7 +26,7 @@
       "id": "dev",
       "name": "Esquseo Dev",
       "short": "ED",
-      "latest": "Daily backup done, 23 Nov ~16:58",
+      "latest": "Daily backup done, 24 Nov ~16:53",
       "desc": "Engineering for Esquseo. Code review, patches, deploy prep. Never pushes to main without approval."
     },
     {
