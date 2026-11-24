@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-24T08:30:45+01:00",
+  "updated": "2026-11-24T14:40:30+01:00",
   "bots": [
     {
       "id": "ops",
       "name": "Ops Tracker",
       "short": "OT",
-      "latest": "Paused inbox checks during outreach run, 24 Nov ~07:18",
+      "latest": "Sent approved lead replies and booked a call, 24 Nov ~12:33",
       "desc": "Tracks lead replies, manages reminders, backups, and operational checks. Drafts follow-ups only. Never sends without approval."
     },
     {
@@ -19,7 +19,7 @@
       "id": "content",
       "name": "Content Drafts",
       "short": "CD",
-      "latest": "Published a LinkedIn post, 24 Nov ~07:22",
+      "latest": "Posted 4 LinkedIn carousels, 24 Nov ~09:25",
       "desc": "Creates daily LinkedIn/X drafts and weekly privacy digests. Research and draft only."
     },
     {
@@ -33,21 +33,21 @@
       "id": "scout",
       "name": "Job Scout",
       "short": "JS",
-      "latest": "Submitted 2 job applications, 23 Nov ~08:16",
+      "latest": "Worked through job applications, 24 Nov ~10:30",
       "desc": "Daily scout for jobs and freelance matching your profile. Drafts only."
     },
     {
       "id": "leads",
       "name": "Lead Generation",
       "short": "LG",
-      "latest": "Resumed today's outreach send run, 24 Nov ~07:28",
+      "latest": "Sent outreach emails, paused for an inbox check, 24 Nov ~14:35",
       "desc": "Daily lead gen for Esquseo & DUB SERVICES. Privacy/AI compliance leads. Drafts only."
     },
     {
       "id": "claude",
       "name": "Claude Access",
       "short": "CA",
-      "latest": "Set up second-opinion review access; briefed 2 bots, 15 Nov ~21:44",
+      "latest": "Reviewed legal remarks and sent analysis, 24 Nov ~11:53",
       "desc": "Helps with personal Claude account access and history review. Never changes without approval."
     }
   ]
