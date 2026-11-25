@@ -1,25 +1,25 @@
 {
-  "updated": "2026-11-24T18:46:07+01:00",
+  "updated": "2026-11-25T15:09:38+01:00",
   "bots": [
     {
       "id": "ops",
       "name": "Ops Tracker",
       "short": "OT",
-      "latest": "Posted a LinkedIn comment reply, 24 Nov ~14:43",
+      "latest": "Checked lead replies and prepared call notes, 25 Nov ~13:30",
       "desc": "Tracks lead replies, manages reminders, backups, and operational checks. Drafts follow-ups only. Never sends without approval."
     },
     {
       "id": "backup",
       "name": "Backup Collector",
       "short": "BC",
-      "latest": "Completed the daily backup, 24 Nov ~18:44",
+      "latest": "Daily backup done, 24 Nov ~23:41",
       "desc": "Collects daily backup exports of all Grok Bots into one ZIP around 21:00 Moscow time. Read-only."
     },
     {
       "id": "content",
       "name": "Content Drafts",
       "short": "CD",
-      "latest": "Posted 4 LinkedIn carousels, 24 Nov ~09:25",
+      "latest": "Published today's LinkedIn and X posts, 25 Nov ~09:32",
       "desc": "Creates daily LinkedIn/X drafts and weekly privacy digests. Research and draft only."
     },
     {
@@ -33,21 +33,21 @@
       "id": "scout",
       "name": "Job Scout",
       "short": "JS",
-      "latest": "Worked through job applications, 24 Nov ~10:30",
+      "latest": "Submitted 2 job applications, 25 Nov ~10:13",
       "desc": "Daily scout for jobs and freelance matching your profile. Drafts only."
     },
     {
       "id": "leads",
       "name": "Lead Generation",
       "short": "LG",
-      "latest": "Sent outreach emails, paused for an inbox check, 24 Nov ~14:35",
+      "latest": "Sent 210 of 1,000 outreach emails, 25 Nov ~14:51",
       "desc": "Daily lead gen for Esquseo & DUB SERVICES. Privacy/AI compliance leads. Drafts only."
     },
     {
       "id": "claude",
       "name": "Claude Access",
       "short": "CA",
-      "latest": "Reviewed legal remarks and sent analysis, 24 Nov ~11:53",
+      "latest": "Reviewed today's drafts, 25 Nov ~09:12",
       "desc": "Helps with personal Claude account access and history review. Never changes without approval."
     }
   ]
