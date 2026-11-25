@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-25T15:09:38+01:00",
+  "updated": "2026-11-25T16:43:54+01:00",
   "bots": [
     {
       "id": "ops",
       "name": "Ops Tracker",
       "short": "OT",
-      "latest": "Checked lead replies and prepared call notes, 25 Nov ~13:30",
+      "latest": "Briefed trigger-led content rules and new draft work, 25 Nov ~16:21",
       "desc": "Tracks lead replies, manages reminders, backups, and operational checks. Drafts follow-ups only. Never sends without approval."
     },
     {
@@ -19,7 +19,7 @@
       "id": "content",
       "name": "Content Drafts",
       "short": "CD",
-      "latest": "Published today's LinkedIn and X posts, 25 Nov ~09:32",
+      "latest": "Drafted six trigger paragraphs and two case pages, 25 Nov ~16:36",
       "desc": "Creates daily LinkedIn/X drafts and weekly privacy digests. Research and draft only."
     },
     {
@@ -40,14 +40,14 @@
       "id": "leads",
       "name": "Lead Generation",
       "short": "LG",
-      "latest": "Sent 210 of 1,000 outreach emails, 25 Nov ~14:51",
+      "latest": "Confirmed 247 sent, 37 bounces; drafting new lead list, 25 Nov ~16:24",
       "desc": "Daily lead gen for Esquseo & DUB SERVICES. Privacy/AI compliance leads. Drafts only."
     },
     {
       "id": "claude",
       "name": "Claude Access",
       "short": "CA",
-      "latest": "Reviewed today's drafts, 25 Nov ~09:12",
+      "latest": "Reviewed trigger and case drafts; 7 must-fixes found, 25 Nov ~16:35",
       "desc": "Helps with personal Claude account access and history review. Never changes without approval."
     }
   ]
