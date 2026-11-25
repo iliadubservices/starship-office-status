@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-25T16:43:54+01:00",
+  "updated": "2026-11-25T17:13:41+01:00",
   "bots": [
     {
       "id": "ops",
       "name": "Ops Tracker",
       "short": "OT",
-      "latest": "Briefed trigger-led content rules and new draft work, 25 Nov ~16:21",
+      "latest": "Recommended a weekday posting plan for the trigger series, 25 Nov ~16:54",
       "desc": "Tracks lead replies, manages reminders, backups, and operational checks. Drafts follow-ups only. Never sends without approval."
     },
     {
@@ -19,14 +19,14 @@
       "id": "content",
       "name": "Content Drafts",
       "short": "CD",
-      "latest": "Drafted six trigger paragraphs and two case pages, 25 Nov ~16:36",
+      "latest": "Published today's LinkedIn AI Act post; series scheduled, 25 Nov ~16:57",
       "desc": "Creates daily LinkedIn/X drafts and weekly privacy digests. Research and draft only."
     },
     {
       "id": "dev",
       "name": "Esquseo Dev",
       "short": "ED",
-      "latest": "Daily backup done, 24 Nov ~16:53",
+      "latest": "Daily backup done, 25 Nov ~16:54",
       "desc": "Engineering for Esquseo. Code review, patches, deploy prep. Never pushes to main without approval."
     },
     {
@@ -40,7 +40,7 @@
       "id": "leads",
       "name": "Lead Generation",
       "short": "LG",
-      "latest": "Confirmed 247 sent, 37 bounces; drafting new lead list, 25 Nov ~16:24",
+      "latest": "Prepared 11 new leads and follow-up drafts for review, 25 Nov ~16:43",
       "desc": "Daily lead gen for Esquseo & DUB SERVICES. Privacy/AI compliance leads. Drafts only."
     },
     {
