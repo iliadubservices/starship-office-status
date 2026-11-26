@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-26T13:41:00+01:00",
+  "updated": "2026-11-26T15:08:00+01:00",
   "bots": [
     {
       "id": "ops",
       "name": "Ops Tracker",
       "short": "OT",
-      "latest": "Sent a meeting-time reply to a warm lead, 26 Nov ~13:22",
+      "latest": "Sent a reply proposing a referral call, 26 Nov ~15:02",
       "desc": "Tracks lead replies, manages reminders, backups, and operational checks. Drafts follow-ups only. Never sends without approval."
     },
     {
@@ -33,7 +33,7 @@
       "id": "scout",
       "name": "Job Scout",
       "short": "JS",
-      "latest": "Filled 2 job applications; waiting to submit, 26 Nov ~13:22",
+      "latest": "Submitted 1 job application, 26 Nov ~14:56",
       "desc": "Daily scout for jobs and freelance matching your profile. Drafts only."
     },
     {
