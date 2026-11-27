@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-27T08:37:38+01:00",
+  "updated": "2026-11-27T09:15:15+01:00",
   "bots": [
     {
       "id": "ops",
       "name": "Ops Tracker",
       "short": "OT",
-      "latest": "Checked inbox; nothing new overnight, 27 Nov ~07:54",
+      "latest": "Checked do-not-contact list before outreach, 27 Nov ~09:00",
       "desc": "Tracks lead replies, manages reminders, backups, and operational checks. Drafts follow-ups only. Never sends without approval."
     },
     {
@@ -19,7 +19,7 @@
       "id": "content",
       "name": "Content Drafts",
       "short": "CD",
-      "latest": "Prepared 4 social posts, ready to publish, 27 Nov ~08:13",
+      "latest": "Posting 4 approved social posts, 27 Nov ~08:59",
       "desc": "Creates daily LinkedIn/X drafts and weekly privacy digests. Research and draft only."
     },
     {
@@ -40,7 +40,7 @@
       "id": "leads",
       "name": "Lead Generation",
       "short": "LG",
-      "latest": "Prepared 8-lead outreach batch for review, 27 Nov ~08:20",
+      "latest": "Sending 4 approved outreach emails, 27 Nov ~09:00",
       "desc": "Daily lead gen for Esquseo & DUB SERVICES. Privacy/AI compliance leads. Drafts only."
     },
     {
