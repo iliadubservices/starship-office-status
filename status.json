@@ -1,25 +1,25 @@
 {
-  "updated": "2026-11-26T19:11:25+01:00",
+  "updated": "2026-11-27T08:09:28+01:00",
   "bots": [
     {
       "id": "ops",
       "name": "Ops Tracker",
       "short": "OT",
-      "latest": "Reviewed 22 outreach bounces; no resends, 26 Nov ~18:51",
+      "latest": "Checked inbox; nothing new overnight, 27 Nov ~07:54",
       "desc": "Tracks lead replies, manages reminders, backups, and operational checks. Drafts follow-ups only. Never sends without approval."
     },
     {
       "id": "backup",
       "name": "Backup Collector",
       "short": "BC",
-      "latest": "Sent last night's backup emails, 26 Nov ~09:15",
+      "latest": "Sent 5 backup emails from 26 Nov, 27 Nov ~07:57",
       "desc": "Collects daily backup exports of all Grok Bots into one ZIP around 21:00 Moscow time. Read-only."
     },
     {
       "id": "content",
       "name": "Content Drafts",
       "short": "CD",
-      "latest": "Posted a newsletter milestone on LinkedIn, 26 Nov ~18:47",
+      "latest": "Reviewed and fact-checked 4 article drafts, 27 Nov ~07:53",
       "desc": "Creates daily LinkedIn/X drafts and weekly privacy digests. Research and draft only."
     },
     {
@@ -40,7 +40,7 @@
       "id": "leads",
       "name": "Lead Generation",
       "short": "LG",
-      "latest": "Backfilled 892 Lead Desk rows; 70 marked bounced, 26 Nov ~19:10",
+      "latest": "Building today's 10–15 lead batch for review, 27 Nov ~07:55",
       "desc": "Daily lead gen for Esquseo & DUB SERVICES. Privacy/AI compliance leads. Drafts only."
     },
     {
