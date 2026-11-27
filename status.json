@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T16:10:11+01:00",
+  "updated": "2026-11-27T17:07:17+01:00",
   "bots": [
     {
       "id": "ops",
@@ -26,7 +26,7 @@
       "id": "dev",
       "name": "Esquseo Dev",
       "short": "ED",
-      "latest": "Daily backup done, 26 Nov ~17:02",
+      "latest": "Daily backup done, 27 Nov ~17:01",
       "desc": "Engineering for Esquseo. Code review, patches, deploy prep. Never pushes to main without approval."
     },
     {
