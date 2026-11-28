@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T11:38:59+01:00",
+  "updated": "2026-11-28T12:10:19+01:00",
   "bots": [
     {
       "id": "ops",
@@ -12,14 +12,14 @@
       "id": "backup",
       "name": "Backup Collector",
       "short": "BC",
-      "latest": "Split backup part 1 into 4 ZIPs, 28 Nov ~11:32",
+      "latest": "Sent backup resend without scripts, 28 Nov ~11:42",
       "desc": "Collects daily backup exports of all Grok Bots into one ZIP around 21:00 Moscow time. Read-only."
     },
     {
       "id": "content",
       "name": "Content Drafts",
       "short": "CD",
-      "latest": "Fact-checked drafts and fixed LinkedIn post, 28 Nov ~10:14",
+      "latest": "Published today's LinkedIn and X posts, 28 Nov ~11:45",
       "desc": "Creates daily LinkedIn/X drafts and weekly privacy digests. Research and draft only."
     },
     {
