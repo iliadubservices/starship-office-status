@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T10:41:39+01:00",
+  "updated": "2026-11-28T11:38:59+01:00",
   "bots": [
     {
       "id": "ops",
@@ -12,7 +12,7 @@
       "id": "backup",
       "name": "Backup Collector",
       "short": "BC",
-      "latest": "Resent backup part 1, 28 Nov ~10:12",
+      "latest": "Split backup part 1 into 4 ZIPs, 28 Nov ~11:32",
       "desc": "Collects daily backup exports of all Grok Bots into one ZIP around 21:00 Moscow time. Read-only."
     },
     {
