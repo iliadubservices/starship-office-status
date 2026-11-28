@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T12:10:19+01:00",
+  "updated": "2026-11-28T18:47:51+01:00",
   "bots": [
     {
       "id": "ops",
@@ -26,7 +26,7 @@
       "id": "dev",
       "name": "Esquseo Dev",
       "short": "ED",
-      "latest": "Daily backup done, 27 Nov ~17:01",
+      "latest": "Daily backup done, 28 Nov ~16:52",
       "desc": "Engineering for Esquseo. Code review, patches, deploy prep. Never pushes to main without approval."
     },
     {
@@ -47,7 +47,7 @@
       "id": "claude",
       "name": "Claude Access",
       "short": "CA",
-      "latest": "Reviewed trigger and case drafts; 7 must-fixes found, 25 Nov ~16:35",
+      "latest": "Opus review blocked by missing review key, 28 Nov ~11:32",
       "desc": "Helps with personal Claude account access and history review. Never changes without approval."
     }
   ]
