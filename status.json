@@ -1,25 +1,25 @@
 {
-  "updated": "2026-11-27T17:59:27+01:00",
+  "updated": "2026-11-28T10:14:52+01:00",
   "bots": [
     {
       "id": "ops",
       "name": "Ops Tracker",
       "short": "OT",
-      "latest": "Checked inbox; no new outreach replies, 27 Nov ~13:27",
+      "latest": "Completed security check, 28 Nov ~06:54",
       "desc": "Tracks lead replies, manages reminders, backups, and operational checks. Drafts follow-ups only. Never sends without approval."
     },
     {
       "id": "backup",
       "name": "Backup Collector",
       "short": "BC",
-      "latest": "Resent backup parts and rebuilt one that failed, 27 Nov ~15:41",
+      "latest": "Resent backup part 1, 28 Nov ~10:12",
       "desc": "Collects daily backup exports of all Grok Bots into one ZIP around 21:00 Moscow time. Read-only."
     },
     {
       "id": "content",
       "name": "Content Drafts",
       "short": "CD",
-      "latest": "Reviewed earlier posts and articles; no live changes, 27 Nov ~15:51",
+      "latest": "Wrote weekend social draft, 28 Nov ~06:38",
       "desc": "Creates daily LinkedIn/X drafts and weekly privacy digests. Research and draft only."
     },
     {
